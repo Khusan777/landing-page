@@ -15,5 +15,5 @@
 
 ## Инструкция для старта проекта:
 * Скопировать данный проект
-> git clone https://github.com/Khusan777/landing-page.git
+> git clone https://github.com/Khusan777/landing-page.git  
 
